@@ -1,7 +1,7 @@
 
 # metalsmith-simple-navigation
 
-  A [Metalsmith](http://metalsmith.io) plugin to extract an excerpt from Markdown files.
+  A [Metalsmith](http://metalsmith.io) plugin that creates a simple array of files to use for navigation
 
 ## Installation
 
