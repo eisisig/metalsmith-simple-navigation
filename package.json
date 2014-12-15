@@ -1,7 +1,13 @@
 {
   "name": "metalsmith-simple-navigation",
   "description": "Simple navigation array of documents and their filenames",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eisisig/metalsmith-simple-navigation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eisisig/metalsmith-simple-navigation/issues"
+  },
   "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
